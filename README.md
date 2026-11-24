@@ -1,72 +1,62 @@
-# Bhuvanesh Kumar M — Developer Portfolio
+<div align="center">
 
-A modern, high-performance developer portfolio for **Bhuvanesh Kumar M**, a B.Tech Information Technology student at Sri Muthukumaran Institute of Technology and aspiring Software Developer passionate about AI, full-stack web engineering, and scalable digital solutions.
+# Bhuvanesh Kumar M
 
-![Portfolio Banner](public/bhuvanesh-hero-portrait.png)
+**Software Developer | AI & Web Technologies**  
+*B.Tech Information Technology &bull; Sri Muthukumaran Institute of Technology*
 
-## ⚡ Tech Stack
+[![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-- **Frontend & UI**: React 18, TypeScript, Tailwind CSS, Vite
-- **Motion & 3D**: Framer Motion 12, Spline 3D Viewer
-- **Icons & Telemetry**: Lucide React, Octokit GitHub REST API
-- **Deployment & Edge**: Cloudflare Pages / Vercel / Netlify
-- **Document Architecture**: Vector ATS-compliant PDF Resume generator
+</div>
 
-## 🌟 Key Features
+---
 
-1. **Hero Section**:
-   - Asymmetrical layout with interactive 3D developer portrait avatar.
-   - Status badge indicating open availability for internships and roles.
-   - Clean navigation and direct resume view trigger.
+## ⚡ Overview
 
-2. **Typography Intro & About**:
-   - Minimal typography statement: *"Turning Ideas Into Digital Experiences"*.
-   - Dynamic scroll-based text reveal with 4 floating glassmorphic engineering widgets (Terminal, Neural Engine, Git Branch, Full-Stack Telemetry).
-   - Core educational and engineering pillar cards.
+A high-performance personal portfolio built with React, TypeScript, and modern animation architecture.
 
-3. **Technical Expertise**:
-   - 5 full-bleed competency rows:
-     1. Web Application Development
-     2. AI-Powered Applications
-     3. Database & Backend Development
-     4. UI/UX & Responsive Design
-     5. Software Development & Version Control
+| Feature Column | Engineering Details |
+| :--- | :--- |
+| **Interactive Hero** | 3D avatar telemetry, asymmetrical layout, and live availability badge |
+| **About & Narrative** | Scroll-driven text reveal with 4 floating glassmorphic code widgets |
+| **Technical Expertise** | 5 core areas: Web Development, AI Integration, Databases, UI/UX, Git |
+| **Featured Projects** | SmartPark.AI, BillBrain & EBPL Data Pipeline with impact metrics |
+| **Live GitHub Stats** | Real-time GitHub REST API integration for repos, stars, and commits |
+| **Verified Resume** | In-browser ATS resume sheet + direct vector PDF download |
+| **Direct Contact** | Instant on-site messaging + 1-click WhatsApp communication |
 
-4. **Featured Projects with Impact Metrics**:
-   - **SmartPark.AI**: Multi-floor smart parking management with Gemini AI & Tesseract.js OCR license plate recognition.
-   - **BillBrain**: AI-driven invoice parsing, voice logging (Tamil/Tanglish), and subscription intelligence.
-   - **EBPL Data Science Pipeline**: Automated Python ETL, multivariate statistical modeling, and predictive regression.
+---
 
-5. **Live GitHub Activity**:
-   - Real-time GitHub REST API integration fetching live commit history, repository stats, stars, and forks for [@Bhuvanesh0621](https://github.com/Bhuvanesh0621).
+## 🛠️ Core Stack
 
-6. **Interactive Themed Resume Modal & ATS PDF**:
-   - In-browser interactive sheet with clean ATS layout, print trigger, and direct vector PDF download.
+- **Client & Styling**: React 18, TypeScript, Tailwind CSS, Vite
+- **Motion & Visuals**: Framer Motion 12, Spline 3D, Lucide Icons
+- **APIs & AI**: GitHub Octokit REST API, Google Gemini AI, Tesseract.js OCR
 
-7. **Direct Messaging & WhatsApp Connect**:
-   - Instant on-site message transmission form with client validation.
-   - Direct 1-click WhatsApp instant chat integration (`+91 99411 35545`).
+---
 
-## 🛠️ Local Development
+## 🚀 Quick Start
 
 ```bash
-# Clone repository
+# 1. Clone repository
 git clone https://github.com/Bhuvanesh0621/portfolio.git
 cd portfolio
 
-# Install dependencies
+# 2. Install dependencies & run
 npm install
-
-# Start Vite development server
 npm run dev
-
-# Build for production
-npm run build
 ```
+
+---
 
 ## 📬 Connect
 
-- **Email**: [bhuvaneshkumar299@gmail.com](mailto:bhuvaneshkumar299@gmail.com)
-- **LinkedIn**: [linkedin.com/in/bhuvaneshkumar0621](https://www.linkedin.com/in/bhuvaneshkumar0621)
-- **GitHub**: [github.com/Bhuvanesh0621](https://github.com/Bhuvanesh0621)
-- **WhatsApp**: [+91 99411 35545](https://wa.me/919941135545)
+| Channel | Contact Link |
+| :--- | :--- |
+| **Email** | [bhuvaneshkumar299@gmail.com](mailto:bhuvaneshkumar299@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/bhuvaneshkumar0621](https://www.linkedin.com/in/bhuvaneshkumar0621) |
+| **GitHub** | [github.com/Bhuvanesh0621](https://github.com/Bhuvanesh0621) |
+| **WhatsApp** | [+91 99411 35545](https://wa.me/919941135545) |
