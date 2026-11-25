@@ -40,6 +40,8 @@ export interface CertificationItem {
   level: string;
   score: string;
   description: string;
+  certificateUrl?: string;
+  rollNo?: string;
 }
 
 export const PORTFOLIO_DATA = {
@@ -240,12 +242,14 @@ export const PORTFOLIO_DATA = {
   certifications: [
     {
       title: 'NPTEL Online Certification',
-      issuer: 'Ministry of Education, Government of India & IITs',
+      issuer: 'Ministry of Education, Government of India & IIT Kharagpur',
       course: 'Programming in Java',
       level: 'ELITE',
       score: '64%',
+      rollNo: 'NPTEL25CS110S353902820',
+      certificateUrl: '/certificates/nptel-programming-in-java-certificate.pdf',
       description:
-        'Successfully completed the comprehensive NPTEL examination on Object-Oriented Programming, Core Java syntax, multi-threading, data collections, and exception handling with an ELITE certification tier.',
+        'Successfully completed the comprehensive 12-week NPTEL examination on Object-Oriented Programming, Core Java syntax, multi-threading, data collections, and exception handling with an ELITE certification tier issued by IIT Kharagpur and Ministry of Education, Govt. of India.',
     },
   ] as CertificationItem[],
 };

@@ -299,6 +299,14 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose }) => 
                       <div>
                         <strong className="text-white font-semibold">NPTEL Online Certification — Programming in Java: </strong>
                         <span>Elite Certificate (Score: 64%) issued by IIT Kharagpur and Ministry of Education, Govt. of India.</span>
+                        <a
+                          href="/certificates/nptel-programming-in-java-certificate.pdf"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="ml-2 inline-flex items-center gap-1 text-xs text-purple-400 hover:text-purple-300 font-mono underline underline-offset-2"
+                        >
+                          [View Verified Certificate]
+                        </a>
                       </div>
                     </div>
                     <div className="flex items-start gap-2.5">
